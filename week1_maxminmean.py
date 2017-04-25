@@ -6,7 +6,7 @@ def main():
     var3 = int(input())
 
     print("Max:", max(var1, var2, var3))
-    print("Mean:", round((var1 + var2 + var3) / 3))
+    print("Mean:", (var1 + var2 + var3) - max(var1, var2, var3) - min(var1, var2, var3))
     print("Min:", min(var1, var2, var3))
 
 main()
