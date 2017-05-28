@@ -1,4 +1,4 @@
-""" Reversed Pyramid """
+""" Pyramid """
 def main():
     """ Main Function """
     num = int(input())
