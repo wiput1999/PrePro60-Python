@@ -1,4 +1,4 @@
-""" Business Growth """
+""" Business Growth Q1"""
 def main():
     """ Main Function """
     num = int(input())
