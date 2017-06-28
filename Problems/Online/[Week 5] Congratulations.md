@@ -1,6 +1,4 @@
 # Description
-Congratulations!!!!!!!!!!!!
-
 อ่าน Specs เอาเนอะ ง่ายดี :)
 
 สำหรับ Week 2
